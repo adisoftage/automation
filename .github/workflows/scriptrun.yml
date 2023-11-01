@@ -1,0 +1,23 @@
+name: Multiple Scripts Automation Example
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run_muliple_scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Run duplication finder script
+        run: |
+          python str.py
