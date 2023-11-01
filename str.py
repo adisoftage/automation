@@ -4,7 +4,7 @@ print("All the duplicate characters in the string are: ")
 for s in range(0, len(string)):
   count = 1;
   for t in range(s+1, len(string)):
-    if (string[s] == string[t] and string[s] ! =' '):
+    if (string[s] == string[t] and string[s] != ' '):
       count = count + 1;
 
 # setting the string t to 0 to avoid printing the characters already taken
