@@ -28,4 +28,4 @@ jobs:
         python-version: '3.x'
 
     - name: Execute Python script
-      run: python script.py
+      run: python str.py
