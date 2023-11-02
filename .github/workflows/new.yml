@@ -1,0 +1,22 @@
+name: Python Script Execution
+
+on:
+  push:
+    branches:
+      - main # Change this to your branch
+
+jobs:
+  execute-python-script:
+    runs-on: ubuntu-latest # You can choose the operating system here
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' # Choose your Python version
+
+    - name: Execute Python script
+      run: python str.py # Replace 'script.py' with your actual Python script filename
