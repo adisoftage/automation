@@ -1,1 +1,2 @@
-console.log('empty file')
+
+console.log('Hello world')
