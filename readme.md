@@ -104,6 +104,7 @@
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
+  <p>If you want to contribute, click <a href="https://github.com/adisoftage/automation/blob/147c46c6f842023b541d406bb7a649b3a434e96b/CONTRIBUTING.md"> here.</a></p>
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/adisoftage">adisoftage</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=adisoftage&label=Profile%20views&color=0e75b6&style=flat" alt="adisoftage" /> </p>
