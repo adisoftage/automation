@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Aditya Singh</b>a student of <b>Computer Science</b> 
+    This is me <b>Aditya Singh </b> a student of <b>Computer Science</b> 
     An aspiring <b>Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Being poor only sounds good in novels---"</i></b>
