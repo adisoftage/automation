@@ -107,3 +107,4 @@
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/adisoftage">adisoftage</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=adisoftage&label=Profile%20views&color=0e75b6&style=flat" alt="adisoftage" /> </p>
+<p> If you want to contribute, kindly read the guidelines <a href="https://github.com/adisoftage/automation/blob/53c423f134bd2fcd874f9f25915e77f064d341a3/CONTRIBUTING.md">here</a></p>
