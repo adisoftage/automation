@@ -1,49 +1,41 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya Singh</h1>
-
+<h1 align="center">Hi <img src="https://raw.girhubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya Singh</h1>
 
 <p align="center">
   <em>
-    This is me <b>Aditya Singh </b> a student of <b>Computer Science</b> 
-    An aspiring <b>Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    This is me <b>Aditya Singh</b> a student of <b>Compute Science</b>
+    An aspiring <b>Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b>
   <br>
-  <b><i>"---Being poor only sounds good in novels---"</i></b>
+  <b><i>"---Being poor sounds good in only novels---"</b>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>Little facts about me</h3>
 
-
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I like watching Movies.
+- I'm currently Working on Github, Web Development and Fullstack  Development.
+- I'm looking to collaborate with Fullstack Web and Mobile Development Projects.
+- Contributing to Open Source Projects is always been a goal to me.
+- Func Fact: I like watching Movies.
 <br>
-
 ---
 
 <details>
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-  
+  <summary>
+    Tech stack currently using:
+  </summary>
+  <br>
+  <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+  <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+  <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
 </details>
 <br>
 
 <details>
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
+  <summary>
+    Looking forward to learn:
+  </summary>
+    <br>
+  <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
+  <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"</a></code>
+  <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 </details>
 <br>
 
@@ -51,7 +43,7 @@
 
 <details open="">
 <summary>
- 📔 GitHub Stats:
+  Github Stats:
 </summary>
 <br>
 <p align="center">
@@ -70,6 +62,15 @@
 
   <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/adisoftage">adisoftage</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=adisoftage&label=Profile%20views&color=0e75b6&style=flat" alt="adisoftage" /> </p>
-<!-- <p> If you want to contribute, kindly read the guidelines <a href="https://github.com/adisoftage/automation/blob/53c423f134bd2fcd874f9f25915e77f064d341a3/CONTRIBUTING.md">here</a></p> -->
+  <p align="right"> Created With Love by <a href="https://github.com/adisoftage">adisoftage</a></p>
+
+
+
+
+
+
+
+
+
+
+
